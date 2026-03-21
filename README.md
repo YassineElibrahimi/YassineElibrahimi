@@ -1,4 +1,4 @@
-# I'm Yassine Elibrahimi.
+# I'm Yassine Elibrahimi
 
 ## 🚀 About Me
 
