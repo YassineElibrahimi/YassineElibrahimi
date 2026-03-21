@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**YassineElibrahimi/YassineElibrahimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Yassine Elibrahimi.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a self-learner based in Morocco.  
+I'm passionate about the idea of what a person can make with some data and code.
+
+- 🔭 I’m currently working on **Beat Lyrics Generator**
+- 🌱 I’m learning **Python**
+- 🎯 My current goal: **ML Engineer** 
+- ⚡ Fun fact: **I'm a beatmaker and a rapper**
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YassineElibrahimi&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YassineElibrahimi&layout=compact&theme=radical)
+
+## 🏆 Featured Projects *(still working on)*
+
+### Beat Lyrics Generator
+> A desktop app that generates full hip-hop tracks.  
+> Choose a genre and a theme, and boom — a full track ready to play.
+
+---
